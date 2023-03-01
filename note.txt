@@ -1,0 +1,35 @@
+
+211
+
+不要管理论推导.也不要纠结于实现细节.
+
+先以运行某个概念为目标
+
+
+现在是rnn
+
+
+
+cnn 这个包运行失败
+CNN_Write_Number
+
+python train_GPU.py
+Traceback (most recent call last):
+  File "train_GPU.py", line 6, in <module>
+    import keras.backend.tensorflow_backend as KTF
+ModuleNotFoundError: No module named 'keras.backend.tensorflow_backend'; 'keras.backend' is not a package
+
+Transformer
+
+这个翻译,运行失败
+FileNotFoundError: [Errno 2] No such file or directory: 'save/model.pt'
+
+缺了个文件,不知道怎么回事
+
+
+
+
+17:43 2023/2/21
+浪费了10天，继续学习ai
+
+
